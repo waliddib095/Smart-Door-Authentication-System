@@ -27,7 +27,7 @@ The person at the door recieves an SMS of the OTP which is valid only for 5 minu
 
 ### Unknown Visitor
 The Owner recieves an Email with the persons image and a link to add the Unknown vistitor to the database :-   
-![alt text](https://github.com/waliddib095/Smart-Door-Authentication-System/blob/main/images/email.png)
+![alt text](https://github.com/waliddib095/Smart-Door-Authentication-System/blob/main/images/Email.png)
  
 
 
